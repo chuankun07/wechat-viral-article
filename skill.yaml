@@ -1,0 +1,8 @@
+name: wechat_viral_article
+title: WeChat Viral Article
+description: 根据一句话、一个想法、一个热点或一个痛点，生成一篇可直接发布的微信公众号爆文，含标题、摘要、正文、结尾金句、封面图和文章配图。写作范式来自 2026-10-28 的对标精读表（洞见、雾满拦江、李月亮共 60 篇）。
+category: Writing
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
